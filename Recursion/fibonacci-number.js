@@ -4,5 +4,5 @@ function fibonacci(n) {
   return fibonacci(n - 1) + fibonacci(n - 2);
 }
 
-const result = fibonacci(10);
+const result = fibonacci(15);
 console.log(result);
