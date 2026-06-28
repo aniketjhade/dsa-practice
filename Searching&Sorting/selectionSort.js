@@ -18,6 +18,6 @@ function selectionSort(arr) {
   return arr;
 }
 
-const arr = [9, 6, 5, 3, 2, 1, 8];
+const arr = [9, 6, 5, 3, 2, 1, 8, 10];
 const result = selectionSort(arr);
 console.log(result);
